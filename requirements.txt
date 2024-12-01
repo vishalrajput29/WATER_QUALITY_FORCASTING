@@ -5,3 +5,4 @@ statsmodels
 joblib
 numpy
 scikit-learn
+pmdarima
